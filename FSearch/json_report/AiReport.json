@@ -1,0 +1,120 @@
+{
+  "search_metadata": {
+    "id": "6984c625be918a8af89fe2f9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EzLVDOqQJxxByNkQGjKF-A/6984c625be918a8af89fe2f9.json",
+    "created_at": "2026-02-05 16:32:37 UTC",
+    "processed_at": "2026-02-05 16:32:37 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=ciao&oq=ciao&hl=en&gl=us&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/EzLVDOqQJxxByNkQGjKF-A/6984c625be918a8af89fe2f9.html",
+    "prettify_html_file": "https://serpapi.com/searches/EzLVDOqQJxxByNkQGjKF-A/6984c625be918a8af89fe2f9.prettify",
+    "total_time_taken": 7.9
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "ciao",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "_FsqRHicRVBJjqtWAJRyEpb_S6EbsDFYLS8w82wz4w1ieMzzYAz7XCT6SqRcIAfIKTqnSUeKlKpdSVWqql9-BcWfUhyyob-_pH5PVu1463HPJ-_-D1CP8edfdNOtvhWvaiOJhpB4TqO5wDEYzTOYULiWcSnNPtYPiUehPvrgNCRxbVarVb7mdKdfLNbAQZ0MjvsYLP4h61bNK-4ZdXb1K9PHNPdl-s3rZqP2piHiMbFfveFUmMUbhV_XjoVyjnpwWN-qw8TRDDZPZB_jON-pT4DtV9AYB6s07jHj-K6VG67RKRFbHbwNmSMaQULW_mOZwBiEGWjnz0Xt9qKuw3f8DYG-qWFctHM35R-Q2M6ghr4ESDchD0KRAMUD4jtE9X0NXBDJxfyOH4i3wwn6JguWqvwM1UUFIB7EVfcdovOxa8A7ejy8If8SMsM0HIv_LL_FXVcV4O-foCAwQbyMADYt43ahmBPTZVNoFsreRIN1dCyh20N5eI08m4rtfhtP-rO-1duQ6Sk-DQp8QDEpoyXgEyXJMES7n79eI2-u_DLJikZ0-IwVgsq1XhVT-okMlQ-IYukLFUpNiC888CSaf9Flq5OV6I5T3RL33ec5NIMprU8NWDLPA5eoY-ZI_WRtHfXxf-erTcusdaE1n_2AGOeiIqTjM9xp447YJNyRTY-CFEMeGXoY1r555mRsbXZujltFURqd5uiNEDSh7bKV-sIHpInMBcfIi2v3YNO4yFaUve1MtbfjfnsU3twi6dogcOna6WoJRMhRbGv3zgODb1eVIW09D2yQTrBwDwJiGcK64AuEDjSWeWS1lNz1V6xVnluW6GoMXXQYdPsq-4lqCjmYkQ5RMHACNt5s2DJMlMSZNMFW8dDdCGpfXzkuT0VaN6RLHU72LIaq7eEUffJ7kSpOtuvMUUUYBNEyhggHIjE8TZ7HVE0Fz3POJvL4ZMidfF0f7OCNO-VU8LwBubTQ_JT7jHcsn8W5HnhNfZGRPZfXbcl-NNNcff5O2TP7SumMMmU86tcVC9AZFos2Qck1hIPTinTqNOGiXuY-fXWteEauIhDk5W6LhU0M_VkglfEGUE0In7la7iC5384Fvyy8uOxn1TiiBrFgaJ-HUzQClfKJ6PjIWLhlU8xOK7cjVR1_ekcluoVipkp1ynSYkuDY2bOoIe9rS_9a9A9TImzU",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Ciao! Come posso aiutarti oggi?"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you're curious about the word you just used, Ciao is a versatile Italian salutation used for both \"hello\" and \"goodbye\". While it's one of the most recognizable Italian words globally, here are a few quick facts about it:",
+      "reference_indexes": [
+        0,
+        5
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Informality: It is strictly an informal greeting. In Italy, it's perfect for friends and family, but for strangers or formal settings, words like Buongiorno (good morning) or Salve (hello) are often preferred."
+        },
+        {
+          "snippet": "Etymology: The word actually comes from the Venetian phrase s-ciào vostro, meaning \"I am your slave\" (metaphorically, \"at your service\")."
+        },
+        {
+          "snippet": "Repetition: You might often hear Italians say \"ciao ciao\" when leaving, which functions much like the English \"bye-bye\"."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to practice some Italian, or is there something specific I can help you find?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Ciao - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ciao#:~:text=the%20English%20language.-,Usage%20as%20greeting,relatives%2C%20or%20the%20very%20familiar.",
+      "snippet": "Usage as greeting. In contemporary Italian usage, ciao is interchangeable for both an informal hello and goodbye, much like aloha ...",
+      "source": "Wikipedia",
+      "source_icon": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/9EpcBmvbixafeLvcshOloaZosLYhmH_I8CQncIhN90o.png",
+      "index": 0
+    },
+    {
+      "title": "How to Use CIAO Like a Real Italian #ciao #italian #language",
+      "link": "https://www.youtube.com/shorts/rPsAKOM10bw",
+      "snippet": "Jul 8, 2023 — probably one of the most popular words for those who are starting to learn Italian is the word ciao that is because it's such a ty...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/OAmXj2B6pBF2wsRWfOo_ve6ha7OjCw3bxjSUx2rjptA.jpeg",
+      "index": 1
+    },
+    {
+      "title": "So does “Ciao” mean Hi and bye? : r/italianlearning - Reddit",
+      "link": "https://www.reddit.com/r/italianlearning/comments/19eg8ok/so_does_ciao_mean_hi_and_bye/#:~:text=contains%20foul%20language.-,The%20Moderation%20Team%20is%20trying%20to%20make%20an%20effort%20to,%E2%80%A2%202y%20ago",
+      "snippet": "Jan 24, 2024 — The Moderation Team is trying to make an effort to reduce this type of content on the subreddit. A moderator will look into it and...",
+      "source": "Reddit",
+      "thumbnail": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/PdJrl2CZb2HdRzxOsVLEGlH_XAzgVFjy0pERUJKgDfs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/ohFJi5Luccb2bZXGmEHSsTqDUZYEAL3xDIyGJRZxwBw.png",
+      "index": 2
+    },
+    {
+      "title": "Why You Shouldn't Say Ciao In Italy - Carpe Diem Tours",
+      "link": "https://carpediemtours.com/blog/ciao-history-etymology-meaning#:~:text=Should%20Say%20Instead)-,Why%20You%20Shouldn't%20Say%20Ciao%20in%20Italy%20(&%20What,I%20am%20at%20your%20disposition'.",
+      "snippet": "Why You Shouldn't Say Ciao in Italy (& What You Should Say Instead) Alexander Meddings. Everybody can speak a little Italian. Whet...",
+      "source": "Carpe Diem Tours",
+      "thumbnail": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/uxUXIBtjfO3i3ei57FTaFXwxX0xQqjk8TfBG5ineePg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/1mnM0Y91NiQMJVCJpI3gfpWeO6jCjI4XBGgP5v69FoE.png",
+      "index": 3
+    },
+    {
+      "title": "Ciao - Definition, Meaning & Synonyms - Vocabulary.com",
+      "link": "https://www.vocabulary.com/dictionary/ciao#:~:text=When%20you%20greet%20a%20friend,%22I%20am%20your%20slave.%22&text=%22Ciao.%22%20Vocabulary.com,2026.",
+      "snippet": "When you greet a friend informally, you can use the word ciao. You might call out, \"Ciao!\"and wave as your brother steps off the t...",
+      "source": "Vocabulary.com",
+      "source_icon": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/DQL6SsHZepgELmPLWSdHmdAjxq538-zXE7e-zmkHE4E.jpeg",
+      "index": 4
+    },
+    {
+      "title": "Did You Know? Ciao Means Hello and Goodbye in Italian ...",
+      "link": "https://www.youtube.com/shorts/joqk6uiGqC8",
+      "snippet": "Oct 2, 2024 — ciaoi did you know that in Italian ciao is used for both hello and goodbye it's super versatile. so you can say ciao when you meet...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/Q2QpKUdRD53d_A7sGr1GZ1765vB0Aqd6ipHxJHpC68s.jpeg",
+      "index": 5
+    },
+    {
+      "title": "The Meaning of 'Ciao': A Warm Italian Greeting - Oreate AI Blog",
+      "link": "https://www.oreateai.com/blog/the-meaning-of-ciao-a-warm-italian-greeting/054b2a476b6ce85e72e5b7441e05b3df#:~:text=In%20practice%2C%20saying%20'ciao',layer%20of%20affection%20to%20farewells.",
+      "snippet": "Dec 30, 2025 — In practice, saying 'ciao' can feel like wrapping someone in a warm hug—a simple way to express friendliness without formality. Yo...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6984c625be918a8af89fe2f9/images/r5abo2c3lqp5GrTePXNBZjehFOdpHKO8--PiEZzUlMA.png",
+      "index": 6
+    }
+  ]
+}
