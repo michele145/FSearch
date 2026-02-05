@@ -5,6 +5,7 @@ A tool for fast google research, also with the results of google IA (all made th
 
 
 -GCC or other C compiler
+
 -libcurl (sudo apt install libcurl4-openssl-dev)
 
 
