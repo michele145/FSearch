@@ -1,7 +1,7 @@
 # FSearch
 A tool for fast google research, also with the results of google IA (all made thanks to SerpApi)
 
-#DIPENDENZE
+#DIPENDENCE
 
 
 -GCC or other C compiler
@@ -11,8 +11,10 @@ A tool for fast google research, also with the results of google IA (all made th
 
 
 To compile the program, open a terminal in the project directory and type:
-$make
+$mkdir build/ && cd build/
+$cmake ..
+$cmake --install build --prefix ~
 
 then start the tool with:
-$./fsearch [opts]
+$fsearch [opts]
 
