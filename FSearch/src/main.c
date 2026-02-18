@@ -97,7 +97,7 @@ int main(int argc, char **argv){
     
     //print the prompt
     for(int i = 1; i < argc; i++)
-        puts(argv[i]);
+        printf("%s ", argv[i]);
 
 
     puts("\n\n\n\n");
