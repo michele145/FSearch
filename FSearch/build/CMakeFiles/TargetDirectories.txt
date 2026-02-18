@@ -1,3 +1,0 @@
-/home/pisk/Scrivania/progetti/CLISearchEngine/build/CMakeFiles/fsearch.dir
-/home/pisk/Scrivania/progetti/CLISearchEngine/build/CMakeFiles/edit_cache.dir
-/home/pisk/Scrivania/progetti/CLISearchEngine/build/CMakeFiles/rebuild_cache.dir

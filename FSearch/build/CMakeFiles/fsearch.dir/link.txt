@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/fsearch.dir/src/main.c.o CMakeFiles/fsearch.dir/src/utils.c.o CMakeFiles/fsearch.dir/src/cJSON.c.o CMakeFiles/fsearch.dir/src/setupCurlCjson.c.o -o fsearch  /usr/lib/x86_64-linux-gnu/libcurl.so 
