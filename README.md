@@ -20,7 +20,9 @@ $mkdir json_report && mkdir build/ && cd build/
 
 $cmake ..
 
-$cmake --install build --prefix ~
+$cmake --build .
+
+$cmake --install . --prefix ~
 
 
 
