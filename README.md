@@ -29,5 +29,5 @@ $cmake --install . --prefix ~
 
 then start the tool with:
 
-$fsearch [opts]
+$fsearch [prompt query]
 
