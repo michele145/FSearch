@@ -16,7 +16,7 @@ To compile the program, open a terminal in the project directory and type:
 
 
 
-$mkdir json_report && mkdir build/ && cd build/
+$mkdir json_report/ && mkdir build/ && cd build/
 
 $cmake ..
 
